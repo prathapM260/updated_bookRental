@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "The Dark Mystery",
+        "image_url": "https://www.bookcoversart.com/wp-content/uploads/2020/04/Crime-Thriller-Mystery-Cinematic-Premade-Book-Cover-The-Hound.jpg",
+        "ratings": 4.5,
+        "views": 980,
+        "description": "Dive into a dark mystery that unravels the secrets of a small town and its troubled inhabitants.",
+        "author": "Ryan Johnson",
+        "genre": "Crime",
+        "publication_year": 2021
+    },
+    {
+        "id": 2,
+        "name": "City of Shadows",
+        "image_url": "https://assets.visme.co/templates/banners/thumbnails/i_Crime-Book-Cover_full.jpg",
+        "ratings": 4.6,
+        "views": 1050,
+        "description": "In the city of shadows, Detective Thompson must solve a series of brutal murders while facing his own demons.",
+        "author": "Emily White",
+        "genre": "Crime",
+        "publication_year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Murder in Manhattan",
+        "image_url": "https://www.creativeparamita.com/wp-content/uploads/2022/09/crime-and-violence.jpg",
+        "ratings": 4.7,
+        "views": 1120,
+        "description": "A gripping tale of murder and intrigue set against the backdrop of New York City's bustling streets.",
+        "author": "David Brown",
+        "genre": "Crime",
+        "publication_year": 2019
+    },
+    {
+        "id": 4,
+        "name": "The Silent Witness",
+        "image_url": "https://i.etsystatic.com/21436845/r/il/177732/3536953685/il_fullxfull.3536953685_p4b0.jpg",
+        "ratings": 4.8,
+        "views": 1200,
+        "description": "A chilling story of a witness who holds the key to solving a high-profile murder case, but at what cost?",
+        "author": "Sarah Green",
+        "genre": "Crime",
+        "publication_year": 2022
+    },
+    {
+        "id": 5,
+        "name": "Blood Stains",
+        "image_url": "https://thebookcoverdesigner.com/wp-content/uploads/2020/01/crime-scene-683x1024.jpg",
+        "ratings": 4.4,
+        "views": 950,
+        "description": "A forensic scientist uncovers a series of blood stains that lead to shocking revelations about a serial killer.",
+        "author": "Michael Roberts",
+        "genre": "Crime",
+        "publication_year": 2021
+    },
+    {
+        "id": 6,
+        "name": "Deadly Game",
+        "image_url": "https://i.etsystatic.com/13188638/r/il/2f4a08/1138958307/il_1140xN.1138958307_ag8s.jpg",
+        "ratings": 4.6,
+        "views": 1070,
+        "description": "A deadly game of cat and mouse ensues between a detective and a criminal mastermind in this thrilling novel.",
+        "author": "Sophie Turner",
+        "genre": "Crime",
+        "publication_year": 2020
+    },
+    {
+        "id": 7,
+        "name": "Cold Case Files",
+        "image_url": "https://cdn.dribbble.com/users/2333386/screenshots/11393613/media/bde6e5b654a99ef9ad643c24239e364e.png",
+        "ratings": 4.7,
+        "views": 1150,
+        "description": "Revisit cold cases with Detective Harris as he uncovers new evidence and pursues justice against all odds.",
+        "author": "Daniel Lee",
+        "genre": "Crime",
+        "publication_year": 2021
+    },
+    {
+        "id": 8,
+        "name": "The Last Witness",
+        "image_url": "https://artfulcover.com/wp-content/uploads/2022/05/i511101288_Witness-to-Murder_800x1200_web-sample.jpg",
+        "ratings": 4.5,
+        "views": 990,
+        "description": "The last witness to a crime holds the key to solving a decades-old mystery that threatens to resurface.",
+        "author": "Emma Collins",
+        "genre": "Crime",
+        "publication_year": 2020
+    },
+    {
+        "id": 9,
+        "name": "Under Suspicion",
+        "image_url": "https://online.visual-paradigm.com/repository/images/561d7a83-3ad0-4a8a-96a6-f5d391d7cd10/book-covers-design/missing-person-crime-novel-book-cover.png",
+        "ratings": 4.8,
+        "views": 1250,
+        "description": "A tale of suspicion and betrayal unfolds as Detective Miller races against time to catch a cunning criminal.",
+        "author": "Alex Wilson",
+        "genre": "Crime",
+        "publication_year": 2022
+    },
+    {
+        "id": 10,
+        "name": "Dangerous Secrets",
+        "image_url": "https://th.bing.com/th/id/OIP.dWiThPFCXmFXw3Zicb7jzgHaFP?rs=1&pid=ImgDetMain",
+        "ratings": 4.9,
+        "views": 1300,
+        "description": "Secrets buried deep threaten to unravel a web of lies and deceit in this gripping crime thriller.",
+        "author": "Rachel Adams",
+        "genre": "Crime",
+        "publication_year": 2023
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "name": "Business Success",
+        "image_url": "Business-Success-1.jpg",
+        "ratings": 4.7,
+        "views": 920,
+        "description": "A comprehensive guide to achieving business success, covering strategies and insights from top industry leaders.",
+        "author": "Alex Morgan",
+        "genre": "Business",
+        "publication_year": 2021
+    },
+    {
+        "id": 2,
+        "name": "Corporate Strategies",
+        "image_url": "Cill Details.jpg",
+        "ratings": 4.5,
+        "views": 860,
+        "description": "An in-depth look at corporate strategies that drive growth and innovation in the modern business world.",
+        "author": "Linda Johnson",
+        "genre": "Business",
+        "publication_year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Corporate Business",
+        "image_url": "corporate-business-book-cover-design-template-set_360095-154.avif",
+        "ratings": 4.3,
+        "views": 800,
+        "description": "A detailed analysis of corporate business models and their application in various industries.",
+        "author": "Michael Adams",
+        "genre": "Business",
+        "publication_year": 2022
+    },
+    {
+        "id": 4,
+        "name": "Ebook Business",
+        "image_url": "ebook-cover-2.jpg",
+        "ratings": 4.6,
+        "views": 910,
+        "description": "An essential guide for creating and marketing successful business eBooks.",
+        "author": "Rachel Green",
+        "genre": "Business",
+        "publication_year": 2023
+    },
+    {
+        "id": 5,
+        "name": "Blue Business",
+        "image_url": "Free-Blue-Business-Book-Cover-Template-800x1200.webp",
+        "ratings": 4.8,
+        "views": 1020,
+        "description": "A visually appealing book cover template designed for professional business publications.",
+        "author": "Daniel Brown",
+        "genre": "Business",
+        "publication_year": 2019
+    },
+    {
+        "id": 6,
+        "name": "Professional Business",
+        "image_url": "Free-Professional-Book-Cover-Template.webp",
+        "ratings": 4.4,
+        "views": 780,
+        "description": "A modern business book cover template that emphasizes professionalism and corporate appeal.",
+        "author": "Sarah White",
+        "genre": "Business",
+        "publication_year": 2018
+    },
+    {
+        "id": 7,
+        "name": "Business Insights",
+        "image_url": "OIP (1).jpg",
+        "ratings": 4.9,
+        "views": 1200,
+        "description": "A collection of insights and advice from top business professionals across various industries.",
+        "author": "John Black",
+        "genre": "Business",
+        "publication_year": 2021
+    },
+    {
+        "id": 8,
+        "name": "Leadership in Business",
+        "image_url": "OIP.jpg",
+        "ratings": 4.5,
+        "views": 840,
+        "description": "An exploration of leadership strategies and their impact on business success.",
+        "author": "Laura Green",
+        "genre": "Business",
+        "publication_year": 2017
+    },
+    {
+        "id": 9,
+        "name": "Business Growth",
+        "image_url": "preview-page0.jpg",
+        "ratings": 4.8,
+        "views": 1100,
+        "description": "A detailed guide to achieving sustainable business growth through innovative strategies.",
+        "author": "Peter Walker",
+        "genre": "Business",
+        "publication_year": 2022
+    },
+    {
+        "id": 10,
+        "name": "Success Secrets",
+        "image_url": "Secrets-to-Success-Business-Book-Cover1.jpg",
+        "ratings": 4.7,
+        "views": 950,
+        "description": "Unveiling the secrets to business success, with practical advice from industry experts.",
+        "author": "Karen Lee",
+        "genre": "Business",
+        "publication_year": 2019
+    },
+    {
+        "id": 11,
+        "name": "Small Business Guide",
+        "image_url": "Small-Business-Book-Cover-Template.jpg",
+        "ratings": 4.6,
+        "views": 880,
+        "description": "A comprehensive guide for small business owners, covering everything from startup to scaling.",
+        "author": "James Smith",
+        "genre": "Business",
+        "publication_year": 2020
+    },
+    {
+        "id": 12,
+        "name": "Startup Handbook",
+        "image_url": "T15-SB1-HBK6-PREV.jpg",
+        "ratings": 4.3,
+        "views": 820,
+        "description": "A practical handbook for startups, offering guidance on launching and growing a successful business.",
+        "author": "Sophia Davis",
+        "genre": "Business",
+        "publication_year": 2021
+    },
+    {
+        "id": 13,
+        "name": "Zero to CEO",
+        "image_url": "zero-to-CEO-award-winning-book-cover.jpg",
+        "ratings": 4.9,
+        "views": 1050,
+        "description": "An award-winning book that chronicles the journey from a startup to a successful CEO.",
+        "author": "Andrew Wilson",
+        "genre": "Business",
+        "publication_year": 2022
+    }
+]

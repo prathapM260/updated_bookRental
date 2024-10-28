@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "The Secret Files",
+        "image_url": "https://c8.alamy.com/comp/2CPKD9B/cover-of-detective-and-mystery-novel-popular-detective-illustrated-by-graphic-artist-rudold-belarski-2CPKD9B.jpg",
+        "ratings": 4.2,
+        "views": 292,
+        "description": "Description for Unknown Detective Book",
+        "author": "Emma Parker",
+        "genre": "Detective",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Sherlock Holmes",
+        "image_url": "https://i.etsystatic.com/13188638/r/il/c6b7bf/1104180436/il_1588xN.1104180436_d3un.jpg",
+        "ratings": 4.5,
+        "views": 318,
+        "description": "Description for Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": "Detective",
+        "publication_year": 1892
+    },
+    {
+        "id": 3,
+        "name": "The Phantom Detective",
+        "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/detective-investigation-book-cover-template-design-574d17463c8c1bf1886dfe8d9819c8e4_screen.jpg?ts=1566580159",
+        "ratings": 4.3,
+        "views": 305,
+        "description": "Description for The Phantom Detective",
+        "author": "Michael Collins",
+        "genre": "Detective",
+        "publication_year": 1945
+    },
+    {
+        "id": 4,
+        "name": "Detective Chronicles",
+        "image_url": "https://imgix-media.wbdndc.net/cms/filer_public/2d/51/2d5157d9-5a96-4d28-b2ab-696181d5cd4e/tec_31.jpg",
+        "ratings": 4.1,
+        "views": 278,
+        "description": "Description for Unknown Book",
+        "author": "Sophie Anderson",
+        "genre": "Detective",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "The Case Files",
+        "image_url": "https://i.etsystatic.com/13188638/r/il/4f7f18/1104180476/il_1588xN.1104180476_i46c.jpg",
+        "ratings": 4.4,
+        "views": 325,
+        "description": "Description for Unknown Book",
+        "author": "David Johnson",
+        "genre": "Detective",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Murder Mystery",
+        "image_url": "https://tweakmore.com/wp-content/uploads/2018/06/Detective-Comics-A483-476x674.jpg",
+        "ratings": 4.6,
+        "views": 378,
+        "description": "Description for Unknown Book",
+        "author": "Jessica Roberts",
+        "genre": "Detective",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "City of Shadows",
+        "image_url": "https://pulpcovers.com/wp-content/uploads/2016/03/Variety-Detective-pulp-magazine-cover-October-1939.jpg",
+        "ratings": 4.2,
+        "views": 301,
+        "description": "Description for Unknown Book",
+        "author": "Andrew Wilson",
+        "genre": "Detective",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "The Detective",
+        "image_url": "https://pulpcovers.com/wp-content/uploads/2020/03/Detective-Story-February-1936.jpg",
+        "ratings": 4.3,
+        "views": 307,
+        "description": "Description for The Detective",
+        "author": "Eleanor Brown",
+        "genre": "Detective",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "The Devouring",
+        "image_url": "https://pulpcovers.com/wp-content/uploads/2015/02/Detective-Novels-October-1939.jpg",
+        "ratings": 4.5,
+        "views": 315,
+        "description": "Description for The Devouring",
+        "author": "James R. Benn",
+        "genre": "Detective",
+        "publication_year": 2017
+    },
+    {
+        "id": 10,
+        "name": "Secrets of the Past",
+        "image_url": "https://i1.wp.com/pulpcovers.com/wp-content/uploads/2011/02/21940430-3154793772_52a4a2e458_b1.jpg?fit=766%2C1024&ssl=1",
+        "ratings": 4.1,
+        "views": 292,
+        "description": "Description for Unknown Book",
+        "author": "Sophia White",
+        "genre": "Detective",
+        "publication_year": 2024
+    }
+]

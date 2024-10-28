@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Action Adventure Book Cover",
+        "image_url": "https://drive.google.com/uc?id=1pyHgx2HaeO_hmV8ace0NbgDXhQ37HUj1",
+        "ratings": 4.5,
+        "views": 1520,
+        "description": "An exhilarating journey through dangerous territories, filled with unexpected twists and turns. Follow the protagonist as they navigate through perilous landscapes, facing formidable foes and uncovering hidden secrets. This book will keep you on the edge of your seat from start to finish.",
+        "author": "Jake Raven",
+        "genre": "Adventure",
+        "publication_year": 2023
+    },
+    {
+        "id": 2,
+        "name": "Belace Book",
+        "image_url": "https://drive.google.com/uc?id=1mNZ8R8gZLPnVWIQXI0vOAMI_6DmvIzcc",
+        "ratings": 4.2,
+        "views": 870,
+        "description": "A gripping tale of suspense and intrigue, Belace takes readers on a wild ride through an intricately woven plot.",
+        "author": "Anna White",
+        "genre": "Arts",
+        "publication_year": 2021
+    },
+    {
+        "id": 3,
+        "name": "Mystery Book",
+        "image_url": "https://drive.google.com/uc?id=1xVDhv1ovt7RGGHkEHZMQcvLhT6RgkAIc",
+        "ratings": 4.8,
+        "views": 1340,
+        "description": "An edge-of-your-seat mystery that keeps you guessing until the very end. A must-read for fans of the genre.",
+        "author": "Michael Grey",
+        "genre": "Arts",
+        "publication_year": 2022
+    },
+    {
+        "id": 4,
+        "name": "Fantasy Adventure",
+        "image_url": "https://drive.google.com/uc?id=1GVosnkmsfhJBTIQkqgVQ63mM3Hq1ePK9",
+        "ratings": 4.6,
+        "views": 1120,
+        "description": "Dive into a fantastical world where magic and adventure collide. This epic tale is full of enchantment and bravery.",
+        "author": "Sophia Lark",
+        "genre": "Arts",
+        "publication_year": 2020
+    },
+    {
+        "id": 5,
+        "name": "Children's Book",
+        "image_url": "https://drive.google.com/uc?id=1lfP2-wl3bM2i_kIBoUELqZ_8K5dHkFj-",
+        "ratings": 4.3,
+        "views": 940,
+        "description": "A delightful story for children that teaches important life lessons through charming characters and engaging narratives.",
+        "author": "Emily Brown",
+        "genre": "Arts",
+        "publication_year": 2019
+    },
+    {
+        "id": 6,
+        "name": "Young Adult Novel",
+        "image_url": "https://drive.google.com/uc?id=16K5Gn2QisjOIsshdNsskhY50wyw0TlmZ",
+        "ratings": 4.7,
+        "views": 1150,
+        "description": "A heartwarming young adult novel that captures the trials and tribulations of teenage life.",
+        "author": "John Green",
+        "genre": "Arts",
+        "publication_year": 2018
+    },
+    {
+        "id": 7,
+        "name": "Adventure Book",
+        "image_url": "https://drive.google.com/uc?id=1AA-ZBhEOoNEA3MuI3f-J5lAHA88vdyXl",
+        "ratings": 4.5,
+        "views": 980,
+        "description": "An adventure through ancient ruins, full of mystery and danger. Perfect for fans of Indiana Jones.",
+        "author": "Lara Croft",
+        "genre": "Adventure",
+        "publication_year": 2021
+    },
+    {
+        "id": 8,
+        "name": "Romance Novel",
+        "image_url": "https://drive.google.com/uc?id=14YjUn1kJ8J4FQhcOwaPn_RJnsuOHRX-6",
+        "ratings": 4.9,
+        "views": 1500,
+        "description": "A beautiful romance story that will tug at your heartstrings. Follow the journey of two souls destined to be together.",
+        "author": "Nicholas Sparks",
+        "genre": "Arts",
+        "publication_year": 2022
+    },
+    {
+        "id": 9,
+        "name": "Art Book",
+        "image_url": "https://drive.google.com/uc?id=1jRVRHPSVWhLXe3dU56qzZmaYwDM4e7h2",
+        "ratings": 4.7,
+        "views": 1050,
+        "description": "A stunning collection of artworks from various artists, showcasing diverse styles and techniques.",
+        "author": "Various Artists",
+        "genre": "Arts",
+        "publication_year": 2017
+    },
+    {
+        "id": 10,
+        "name": "Creative Art Book",
+        "image_url": "https://drive.google.com/uc?id=1I4lg8xg4NDeVT8K2i_uJpmtntU8WoE-B",
+        "ratings": 4.4,
+        "views": 900,
+        "description": "Explore the world of creative arts with this comprehensive book, filled with inspiring artworks and artist stories.",
+        "author": "Art Collective",
+        "genre": "Arts",
+        "publication_year": 2019
+    },
+    {
+        "id": 11,
+        "name": "Design Book",
+        "image_url": "https://drive.google.com/uc?id=1T6VgNr5ouuvMmKifijmrV4opf-m6Q5m5",
+        "ratings": 4.6,
+        "views": 1010,
+        "description": "A guide to designing captivating book covers. Ideal for designers and authors alike.",
+        "author": "Design Experts",
+        "genre": "Arts",
+        "publication_year": 2020
+    },
+    {
+        "id": 12,
+        "name": "Artbook Cover",
+        "image_url": "https://drive.google.com/uc?id=1MNVp5RIfkUGfQxdV0zA-b9L3uwA39lsn",
+        "ratings": 4.5,
+        "views": 980,
+        "description": "An exquisite artbook cover showcasing the best works from contemporary artists.",
+        "author": "Contemporary Artists",
+        "genre": "Arts",
+        "publication_year": 2021
+    },
+    {
+        "id": 13,
+        "name": "Kids Adventure Book",
+        "image_url": "https://drive.google.com/uc?id=1SvCEXOWMtZSjB-pKfSL0hzwaFfwXEy0I",
+        "ratings": 4.3,
+        "views": 860,
+        "description": "A fun-filled adventure book for kids, packed with excitement and valuable lessons.",
+        "author": "Jane Doe",
+        "genre": "Arts",
+        "publication_year": 2018
+    },
+    {
+        "id": 14,
+        "name": "CD Details",
+        "image_url": "https://drive.google.com/uc?id=1Hy2IgrvYVJkDzFpI-Azv8JfXFo5vd2Tn",
+        "ratings": 4.2,
+        "views": 1200,
+        "description": "A comprehensive guide to music CDs, featuring detailed reviews and analysis of various albums.",
+        "author": "Sarah Connors",
+        "genre": "Arts",
+        "publication_year": 2020
+    },
+    {
+        "id": 15,
+        "name": "Kid's Adventure Book Cover",
+        "image_url": "https://drive.google.com/uc?id=1-_0drauzaFKSiDwxOV8TglWXW4PMtY4m",
+        "ratings": 4.1,
+        "views": 780,
+        "description": "A colorful adventure book cover template for kids, perfect for sparking their imagination.",
+        "author": "Nancy Drew",
+        "genre": "Arts",
+        "publication_year": 2019
+    },
+    {
+        "id": 16,
+        "name": "Travel the World Adventure Book",
+        "image_url": "https://drive.google.com/uc?id=1_LRkeJqwL5aYv2rO98vJsMHL5mAehVKe",
+        "ratings": 4.8,
+        "views": 1130,
+        "description": "Embark on a thrilling adventure around the world with this captivating travel book.",
+        "author": "Travel Experts",
+        "genre": "Arts",
+        "publication_year": 2021
+    },
+    {
+        "id": 17,
+        "name": "Illustration Book",
+        "image_url": "https://drive.google.com/uc?id=1Gf0ZP2DTJU0vMhvm6s9-RPHZ92WfdmUI",
+        "ratings": 4.7,
+        "views": 1020,
+        "description": "An inspiring collection of illustrations showcasing the talent and creativity of various artists.",
+        "author": "Illustrators",
+        "genre": "Arts",
+        "publication_year": 2019
+    },
+    {
+        "id": 18,
+        "name": "Adventure Time Book",
+        "image_url": "https://drive.google.com/uc?id=1WkPpA4oU1g5K_4i6FhSWxocPjOn9WwzR",
+        "ratings": 4.5,
+        "views": 950,
+        "description": "Join your favorite characters on thrilling adventures across the Land of Ooo.",
+        "author": "Finn the Human",
+        "genre": "Arts",
+        "publication_year": 2018
+    },
+    {
+        "id": 19,
+        "name": "A-Z Book",
+        "image_url": "https://drive.google.com/uc?id=1t8taePtgWJgQmz3GwyeU-5Jxx4iHJnQT",
+        "ratings": 4.4,
+        "views": 880,
+        "description": "Explore the alphabet with this beautifully illustrated A-Z book, featuring vibrant images and engaging activities.",
+        "author": "ABC Publishers",
+        "genre": "Arts",
+        "publication_year": 2020
+    },
+    {
+        "id": 20,
+        "name": "Anime Adventure Book",
+        "image_url": "https://drive.google.com/uc?id=1sWvHFn2mBYUyB-sPSSY6KT7QITQdN5mH",
+        "ratings": 4.3,
+        "views": 850,
+        "description": "Experience thrilling adventures with your favorite anime characters in this action-packed book.",
+        "author": "Anime Fan",
+        "genre": "Arts",
+        "publication_year": 2017
+    }
+]

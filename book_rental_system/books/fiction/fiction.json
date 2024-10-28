@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Fiction Book",
+        "image_url": "9fa08e532e0a0e267a38fec439fac6cd.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Fiction Book",
+        "image_url": "a31a58fc28c0253ee1d6cce30594caae.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Daughter of Man",
+        "image_url": "Daughter-of-Man-book-cover-scaled-1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Daughter of Man",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Unknown Fiction Book",
+        "image_url": "f7c812c9b0296cd9f119e33a06d9a256.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Fiction Book",
+        "image_url": "image15.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Unknown Fiction Book",
+        "image_url": "image40.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Unknown Fiction Book",
+        "image_url": "img_6054a6c45b907.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Unknown Fiction Book",
+        "image_url": "img_6054aaa776ae7.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Unknown Fiction Book",
+        "image_url": "OIP (4).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fiction Book",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "The Last Defector",
+        "image_url": "the-last-defector-book-cover-scaled-1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Last Defector",
+        "author": "Unknown Author",
+        "genre": "Fiction",
+        "publication_year": 2024
+    }
+]

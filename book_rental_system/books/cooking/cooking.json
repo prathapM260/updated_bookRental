@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Gourmet Cooking",
+        "image_url": "501w-AH4NHMVcHPQ.webp",
+        "ratings": 4.7,
+        "views": 1150,
+        "description": "Explore the world of gourmet cooking with this comprehensive guide filled with recipes and techniques from top chefs.",
+        "author": "Emma Baker",
+        "genre": "Cooking",
+        "publication_year": 2021
+    },
+    {
+        "id": 2,
+        "name": "Home Cooking Secrets",
+        "image_url": "attachment_56599331-e1490051476624.avif",
+        "ratings": 4.6,
+        "views": 1050,
+        "description": "Discover the secrets of home cooking with easy-to-follow recipes and tips for delicious meals.",
+        "author": "Liam Carter",
+        "genre": "Cooking",
+        "publication_year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Cooking Basics",
+        "image_url": "cooking-book-cover.jpg",
+        "ratings": 4.4,
+        "views": 980,
+        "description": "A beginner's guide to cooking, covering essential techniques and recipes for everyday meals.",
+        "author": "Olivia Roberts",
+        "genre": "Cooking",
+        "publication_year": 2019
+    },
+    {
+        "id": 4,
+        "name": "Fresh Food",
+        "image_url": "FreshFood.jpg",
+        "ratings": 4.8,
+        "views": 1200,
+        "description": "A collection of recipes focused on fresh and healthy ingredients for delicious and nutritious meals.",
+        "author": "Noah Evans",
+        "genre": "Cooking",
+        "publication_year": 2022
+    },
+    {
+        "id": 5,
+        "name": "Home-style Cooking",
+        "image_url": "Home-style-cooking-1-442x705.jpg",
+        "ratings": 4.7,
+        "views": 1120,
+        "description": "A guide to home-style cooking with comforting and hearty recipes that bring the family together.",
+        "author": "Sophia Martinez",
+        "genre": "Cooking",
+        "publication_year": 2020
+    },
+    {
+        "id": 6,
+        "name": "Artisan Cooking",
+        "image_url": "il_fullxfull.3247069138_i9x3.avif",
+        "ratings": 4.5,
+        "views": 950,
+        "description": "Learn the art of artisan cooking with step-by-step recipes and techniques for gourmet meals.",
+        "author": "William Johnson",
+        "genre": "Cooking",
+        "publication_year": 2021
+    },
+    {
+        "id": 7,
+        "name": "Culinary Delights",
+        "image_url": "OIP.jpg",
+        "ratings": 4.9,
+        "views": 1250,
+        "description": "A culinary journey through delightful recipes and cooking techniques from around the world.",
+        "author": "Mia Taylor",
+        "genre": "Cooking",
+        "publication_year": 2022
+    },
+    {
+        "id": 8,
+        "name": "Family Recipes",
+        "image_url": "R (1).jpg",
+        "ratings": 4.6,
+        "views": 1070,
+        "description": "A collection of treasured family recipes passed down through generations, perfect for family gatherings.",
+        "author": "James Brown",
+        "genre": "Cooking",
+        "publication_year": 2019
+    },
+    {
+        "id": 9,
+        "name": "Healthy Cooking",
+        "image_url": "R.jpg",
+        "ratings": 4.7,
+        "views": 1150,
+        "description": "A guide to healthy cooking with nutritious recipes and tips for a balanced diet.",
+        "author": "Isabella Clark",
+        "genre": "Cooking",
+        "publication_year": 2021
+    },
+    {
+        "id": 10,
+        "name": "Basic Cookbook Guide",
+        "image_url": "the_basic_cookbook_guide_front_covers_final_Ir.jpg",
+        "ratings": 4.5,
+        "views": 990,
+        "description": "A basic cookbook guide covering fundamental recipes and cooking techniques for beginners.",
+        "author": "Lucas Wilson",
+        "genre": "Cooking",
+        "publication_year": 2020
+    }
+]

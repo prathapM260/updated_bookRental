@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "The Secret in the Old Attic",
+        "image_url": "https://images-platform.99static.com/cZJ6TZNXmMO7iNB9gOZuedqjvOQ=/500x500/top/smart/99designs-contests-attachments/48/48541/attachment_48541544",
+        "ratings": 4.2,
+        "views": 187,
+        "description": "Description for The Secret in the Old Attic",
+        "author": "Alice Green",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "The Midnight Murder",
+        "image_url": "https://images-platform.99static.com/X8Y9ZfoFvKM59ZlqDX8D8960EU4=/500x500/top/smart/99designs-contests-attachments/48/48999/attachment_48999093",
+        "ratings": 4.5,
+        "views": 215,
+        "description": "Description for The Midnight Murder",
+        "author": "David Brown",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Artful Cover: A Date with Murder",
+        "image_url": "https://th.bing.com/th/id/OIP.dpTy-aW-BDC_C3T1HpQr1QAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.1,
+        "views": 198,
+        "description": "Description for A Date with Murder",
+        "author": "Sophie Miller",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Secrets of the Silent Forest",
+        "image_url": "https://th.bing.com/th/id/OIP.risMitdRhsbii2-jMZSjMgAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.3,
+        "views": 205,
+        "description": "Description for Secrets of the Silent Forest",
+        "author": "Oliver White",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "The Vanishing Act",
+        "image_url": "https://mysterytribune.com/wp-content/uploads/2017/12/The-Devouring-james-r-benn-best-mystery-thriller-book-covers-2017-768x1156.jpg",
+        "ratings": 4.4,
+        "views": 223,
+        "description": "Description for The Vanishing Act",
+        "author": "Ella Wilson",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Murder at Midnight",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/01/crime-and-mystery-cover-scaled-1.jpeg",
+        "ratings": 4.0,
+        "views": 192,
+        "description": "Description for Murder at Midnight",
+        "author": "Benjamin Reed",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "The Mystery of Hollow Manor",
+        "image_url": "https://images-platform.99static.com/o-p9DiRCXm7DtQHklT7yJo-pguw=/500x500/top/smart/99designs-contests-attachments/48/48744/attachment_48744497",
+        "ratings": 4.6,
+        "views": 234,
+        "description": "Description for The Mystery of Hollow Manor",
+        "author": "Lily Harris",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "The Phantom Detective",
+        "image_url": "https://th.bing.com/th/id/OIP.KfeEVp8h3i_o7YQpLULNEAAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.2,
+        "views": 198,
+        "description": "Description for The Phantom Detective",
+        "author": "Andrew Turner",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "The Devouring",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/Dean_Rasmussen_ebook-scaled.jpg",
+        "ratings": 4.5,
+        "views": 212,
+        "description": "Description for The Devouring",
+        "author": "James R. Benn",
+        "genre": "Mystery",
+        "publication_year": 2017
+    },
+    {
+        "id": 10,
+        "name": "The Shadow of Death",
+        "image_url": "https://pyxis.nymag.com/v1/imgs/c80/e31/732b19a78fe14a7e601cd8940a8b13130b-doyle-sherlock-holmes.w710.jpg",
+        "ratings": 4.3,
+        "views": 207,
+        "description": "Description for The Shadow of Death",
+        "author": "Sophia Hughes",
+        "genre": "Mystery",
+        "publication_year": 2024
+    }
+]

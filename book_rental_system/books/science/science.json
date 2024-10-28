@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Science Book",
+        "image_url": "1723894e4cd15ef0f972838e307b7830.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Science Book",
+        "image_url": "9781405357203_cover.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Unknown Science Book",
+        "image_url": "img_6054aa9f5d3d0.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Unknown Science Book",
+        "image_url": "img_6054aaa776ae7.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Science Book",
+        "image_url": "original-7646129-1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Unknown Science Book",
+        "image_url": "R (1).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Unknown Science Book",
+        "image_url": "R.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Unknown Science Book",
+        "image_url": "science1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Unknown Science Book",
+        "image_url": "science-cover-book-design-with-laboratory-vector-31136462.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "Unknown Science Book",
+        "image_url": "science-cover-book-design-with-molecule-dna-vector-31136466.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Science Book",
+        "author": "Unknown Author",
+        "genre": "Science",
+        "publication_year": 2024
+    }
+]

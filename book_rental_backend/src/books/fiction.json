@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "image_url": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+        "ratings": 4.5,
+        "views": 198,
+        "description": "Description for The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/01/crime-and-mystery-cover-scaled-1.jpeg",
+        "ratings": 4.7,
+        "views": 215,
+        "description": "Description for To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Daughter of Man",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/01/the-last-defector-book-cover-scaled-1.jpeg",
+        "ratings": 4.6,
+        "views": 210,
+        "description": "Description for Daughter of Man",
+        "author": "J.K. Rowling",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "image_url": "https://www.creativindie.com/wp-content/uploads/2015/05/the-museum-of-extraordinary-things-9781471112157_hr-768x1169.jpg",
+        "ratings": 4.4,
+        "views": 202,
+        "description": "Description for Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "1984",
+        "image_url": "https://i.pinimg.com/564x/9f/a0/8e/9fa08e532e0a0e267a38fec439fac6cd.jpg",
+        "ratings": 4.8,
+        "views": 225,
+        "description": "Description for 1984",
+        "author": "George Orwell",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "The Catcher in the Rye",
+        "image_url": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/01/enceladus.jpg?auto=forma",
+        "ratings": 4.3,
+        "views": 195,
+        "description": "Description for The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Brave New World",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/01/thriller-book-cover-scaled-1.jpeg",
+        "ratings": 4.5,
+        "views": 200,
+        "description": "Description for Brave New World",
+        "author": "Aldous Huxley",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "The Hobbit",
+        "image_url": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/02/attachment_76288142-e1486420088930.jpg?auto=format&q=60&fit=max&w=930",
+        "ratings": 4.6,
+        "views": 205,
+        "description": "Description for The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "The Alchemist",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/01/Daughter-of-Man-book-cover-scaled-1.jpeg",
+        "ratings": 4.7,
+        "views": 210,
+        "description": "Description for The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "The Last Defector",
+        "image_url": "https://www.bookcoversart.com/wp-content/uploads/2018/08/Defiance-ScienceFiction-Military-Science-Fiction-SciFi-SF-Space-Opera-Book-Cover.jpg",
+        "ratings": 4.4,
+        "views": 198,
+        "description": "Description for The Last Defector",
+        "author": "John Grisham",
+        "genre": "Fiction",
+        "publication_year": 2024
+    }
+]

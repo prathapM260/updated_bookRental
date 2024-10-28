@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Detective Book",
+        "image_url": "0ad39ba2cad418e18f76ab185844ae20.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Detective Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Sherlock Holmes",
+        "image_url": "732b19a78fe14a7e601cd8940a8b13130b-doyle-sherlock-holmes.w710.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": "Mystery",
+        "publication_year": 1892
+    },
+    {
+        "id": 3,
+        "name": "The Phantom Detective",
+        "image_url": "1940s-usa-the-phantom-detective-book-cover-EXTJGR.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Phantom Detective",
+        "author": "Unknown Author",
+        "genre": "Detective",
+        "publication_year": 1945
+    },
+    {
+        "id": 4,
+        "name": "Unknown Book",
+        "image_url": "ae3ea519daedc8505151c2bca25def50.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Book",
+        "image_url": "OIP (1).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Unknown Book",
+        "image_url": "OIP (2).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Unknown Book",
+        "image_url": "OIP.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "The Detective",
+        "image_url": "TheDetective.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Detective",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "The Devouring",
+        "image_url": "The-Devouring-james-r-benn-best-mystery-thriller-book-covers-2017-768x1156.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Devouring",
+        "author": "James R. Benn",
+        "genre": "Mystery Thriller",
+        "publication_year": 2017
+    },
+    {
+        "id": 10,
+        "name": "Unknown Book",
+        "image_url": "ZP6x4iTg-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    }
+]

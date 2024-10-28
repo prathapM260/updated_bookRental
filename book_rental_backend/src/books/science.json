@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Quantum Physics Explained",
+        "image_url": "https://th.bing.com/th/id/OIP.OQ6VVpQlGtFPkDJsw72k2gAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 3.8,
+        "views": 124,
+        "description": "Description for Quantum Physics Explained",
+        "author": "Emily Thompson",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Genetic Engineering Advances",
+        "image_url": "https://cdn2.vectorstock.com/i/1000x1000/64/61/science-cover-book-design-with-laboratory-vector-31136461.jpg",
+        "ratings": 4.2,
+        "views": 98,
+        "description": "Description for Genetic Engineering Advances",
+        "author": "Michael Anderson",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Space Exploration Chronicles",
+        "image_url": "https://th.bing.com/th/id/OIP.mCZ_uHiIJdjgNt0uI1WAOwAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.5,
+        "views": 156,
+        "description": "Description for Space Exploration Chronicles",
+        "author": "Sophia Davis",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Artificial Intelligence Revolution",
+        "image_url": "https://img.freepik.com/premium-vector/science-book-cover-children_101903-985.jpg?w=2000",
+        "ratings": 4.0,
+        "views": 87,
+        "description": "Description for Artificial Intelligence Revolution",
+        "author": "Daniel Walker",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Nanotechnology Breakthroughs",
+        "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/7c6da027475317.56365b334d3d4.jpg",
+        "ratings": 4.3,
+        "views": 112,
+        "description": "Description for Nanotechnology Breakthroughs",
+        "author": "Olivia Martinez",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Environmental Conservation Strategies",
+        "image_url": "https://cdn1.vectorstock.com/i/1000x1000/64/70/science-cover-book-design-with-magnifying-glass-vector-31136470.jpg",
+        "ratings": 4.1,
+        "views": 103,
+        "description": "Description for Environmental Conservation Strategies",
+        "author": "Ryan Harris",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Medical Breakthroughs in Genetics",
+        "image_url": "https://cdn2.vectorstock.com/i/1000x1000/64/71/science-cover-book-design-with-laboratory-vector-31136471.jpg",
+        "ratings": 3.9,
+        "views": 135,
+        "description": "Description for Medical Breakthroughs in Genetics",
+        "author": "Ella Wilson",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Climate Change Science",
+        "image_url": "https://ecdn.teacherspayteachers.com/thumbitem/Science-Book-Cover-7646129-1662348664/original-7646129-1.jpg",
+        "ratings": 4.4,
+        "views": 118,
+        "description": "Description for Climate Change Science",
+        "author": "Lucas Thompson",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "The Future of Robotics",
+        "image_url": "https://cdn2.vectorstock.com/i/1000x1000/64/66/science-cover-book-design-with-molecule-dna-vector-31136466.jpg",
+        "ratings": 4.6,
+        "views": 143,
+        "description": "Description for The Future of Robotics",
+        "author": "Sophie Roberts",
+        "genre": "Science",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "Astrophysics Insights",
+        "image_url": "https://www.teacharesources.com/wp-content/uploads/2019/01/editable-science-book-covers-freebie-picture-2.png",
+        "ratings": 4.7,
+        "views": 159,
+        "description": "Description for Astrophysics Insights",
+        "author": "Jacob Brown",
+        "genre": "Science",
+        "publication_year": 2024
+    }
+]

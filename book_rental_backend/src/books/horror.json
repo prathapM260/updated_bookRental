@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "The Haunting of Hill House",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/Dean_Rasmussen_ebook-scaled.jpg",
+        "ratings": 4.5,
+        "views": 187,
+        "description": "Description for The Haunting of Hill House",
+        "author": "Shirley Jackson",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Dracula",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/Raymond-Beckham-scaled.jpg",
+        "ratings": 4.3,
+        "views": 198,
+        "description": "Description for Dracula",
+        "author": "Bram Stoker",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "The Exorcist",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/2LTd4fOY.jpeg",
+        "ratings": 4.6,
+        "views": 215,
+        "description": "Description for The Exorcist",
+        "author": "William Peter Blatty",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Psycho",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/photo_2020-05-22_02-11-38.jpg",
+        "ratings": 4.4,
+        "views": 203,
+        "description": "Description for Psycho",
+        "author": "Robert Bloch",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Frankenstein",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/Jonathan-Sixtos-scaled.jpg",
+        "ratings": 4.2,
+        "views": 195,
+        "description": "Description for Frankenstein",
+        "author": "Mary Shelley",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "The Shining",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/11/ZP6x4iTg-683x1024.jpg",
+        "ratings": 4.7,
+        "views": 220,
+        "description": "Description for The Shining",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "IT",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/6tZyPWlI-683x1024.jpeg",
+        "ratings": 4.8,
+        "views": 225,
+        "description": "Description for IT",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Bird Box",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/eYTiC-I4-scaled.jpeg",
+        "ratings": 4.3,
+        "views": 201,
+        "description": "Description for Bird Box",
+        "author": "Josh Malerman",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "The Silence of the Lambs",
+        "image_url": "https://cdn.mos.cms.futurecdn.net/ocdtY859r3JmSZcA5FVJKh-650-80.jpg",
+        "ratings": 4.6,
+        "views": 210,
+        "description": "Description for The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "genre": "Horror",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "The Devil's Cat",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/E_5lpeas-scaled.jpeg",
+        "ratings": 4.5,
+        "views": 195,
+        "description": "Description for The Devil's Cat",
+        "author": "Nora Roberts",
+        "genre": "Horror",
+        "publication_year": 2024
+    }
+]

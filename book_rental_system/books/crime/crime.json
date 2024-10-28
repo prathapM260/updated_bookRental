@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Dark Shadows",
+        "image_url": "6af5e137-42a8-477f-9f7e-0551067db6e2-56d012e7bbadcd1139b4f20cef62b501.avif",
+        "ratings": 4.8,
+        "views": 1250,
+        "description": "A gripping crime thriller that delves into the darkest corners of human nature. Follow the detective as they unravel a web of deceit and murder.",
+        "author": "Liam Cross",
+        "genre": "Crime",
+        "publication_year": 2021
+    },
+    {
+        "id": 2,
+        "name": "Violent Ends",
+        "image_url": "crime-and-violence.jpg",
+        "ratings": 4.6,
+        "views": 1100,
+        "description": "A chilling tale of crime and violence that will keep you on the edge of your seat. Discover the truth behind the brutal murders.",
+        "author": "Emma Blake",
+        "genre": "Crime",
+        "publication_year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Scene of the Crime",
+        "image_url": "crime-scene-683x1024.jpg",
+        "ratings": 4.7,
+        "views": 1180,
+        "description": "A riveting crime novel that takes you through the meticulous investigation of a high-profile murder case.",
+        "author": "Noah Hughes",
+        "genre": "Crime",
+        "publication_year": 2022
+    },
+    {
+        "id": 4,
+        "name": "Suspense and Intrigue",
+        "image_url": "Crime-Suspense-Thriller-Book-Cover-Chisel.webp",
+        "ratings": 4.9,
+        "views": 1300,
+        "description": "A suspenseful thriller filled with unexpected twists and turns. Follow the protagonists as they uncover a sinister plot.",
+        "author": "Sophia Mitchell",
+        "genre": "Crime",
+        "publication_year": 2021
+    },
+    {
+        "id": 5,
+        "name": "The Hound",
+        "image_url": "Crime-Thriller-Mystery-Cinematic-Premade-Book-Cover-The-Hound.webp",
+        "ratings": 4.5,
+        "views": 1050,
+        "description": "A thrilling mystery that keeps you guessing until the very end. Dive into the world of crime and suspense.",
+        "author": "James Carter",
+        "genre": "Crime",
+        "publication_year": 2019
+    },
+    {
+        "id": 6,
+        "name": "Crime Chronicles",
+        "image_url": "i_Crime-Book-Cover_full.webp",
+        "ratings": 4.7,
+        "views": 1150,
+        "description": "An anthology of crime stories that will leave you wanting more. Each tale delves deep into the criminal mind.",
+        "author": "Olivia Bennett",
+        "genre": "Crime",
+        "publication_year": 2022
+    },
+    {
+        "id": 7,
+        "name": "Missing Person",
+        "image_url": "missing-person-crime-novel-book-cover.jpg",
+        "ratings": 4.6,
+        "views": 1090,
+        "description": "A captivating crime novel about a missing person case that unravels a series of shocking revelations.",
+        "author": "William Turner",
+        "genre": "Crime",
+        "publication_year": 2020
+    },
+    {
+        "id": 8,
+        "name": "Shadow of Doubt",
+        "image_url": "OIP (1).jpg",
+        "ratings": 4.8,
+        "views": 1220,
+        "description": "A crime thriller that explores the thin line between guilt and innocence. Follow the detective on a quest for justice.",
+        "author": "Mia Gray",
+        "genre": "Crime",
+        "publication_year": 2021
+    },
+    {
+        "id": 9,
+        "name": "Silent Witness",
+        "image_url": "OIP.jpg",
+        "ratings": 4.7,
+        "views": 1170,
+        "description": "A gripping tale of crime and suspense. The silent witness holds the key to solving the mystery.",
+        "author": "Lucas Johnson",
+        "genre": "Crime",
+        "publication_year": 2022
+    },
+    {
+        "id": 10,
+        "name": "Deadly Secrets",
+        "image_url": "R.jpg",
+        "ratings": 4.5,
+        "views": 1040,
+        "description": "A crime novel filled with deadly secrets and hidden agendas. Unravel the truth behind the murders.",
+        "author": "Isabella Evans",
+        "genre": "Crime",
+        "publication_year": 2019
+    }
+]

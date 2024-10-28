@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "April Young Adult",
+        "image_url": "april-young-adult-768x1152-1-683x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for April Young Adult",
+        "author": "Unknown Author",
+        "genre": "Young Adult",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Fantasy Cover January",
+        "image_url": "fantasy-cover-january-4-768x1226-1-641x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Fantasy Cover January",
+        "author": "Unknown Author",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Unknown Fantasy Book",
+        "image_url": "OIP (1).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Unknown Author",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Unknown Fantasy Book",
+        "image_url": "OIP (2).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Unknown Author",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Fantasy Book",
+        "image_url": "OIP (3).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Unknown Author",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "The Curse of Infinity",
+        "image_url": "The-Curse-of-Infinity-by-Rachel-Hetrick.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Curse of Infinity",
+        "author": "Rachel Hetrick",
+        "genre": "Fantasy",
+        "publication_year": 2023
+    },
+    {
+        "id": 7,
+        "name": "Young Adult 2",
+        "image_url": "YA-2-768x1182-1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Young Adult 2",
+        "author": "Unknown Author",
+        "genre": "Young Adult",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "YA Urban Paranormal Academy",
+        "image_url": "YA-urban-paranormal-academy-копія-scaled-1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for YA Urban Paranormal Academy",
+        "author": "Unknown Author",
+        "genre": "Young Adult",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Unknown Fantasy Book",
+        "image_url": "april-young-adult-768x1152-1-683x1024april-young-adult-768x1152-1-683x1024april-young-adult-768x1152-1-683x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Unknown Author",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "Unknown Fantasy Book",
+        "image_url": "april-young-adult-768x1152-1-683x1024april-young-adult-768x1152-1-683x1024april-young-adult-768x1152-1-683x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Unknown Author",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    }
+]

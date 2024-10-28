@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Biographical Adventure",
+        "image_url": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/13b3cd25-6213-4e67-8aa9-e3334d5216fc/Dreams%20From%20My%20Father%20book%20cover.jpg",
+        "ratings": 4.7,
+        "views": 920,
+        "description": "An inspiring biographical adventure that takes you through the remarkable life of the protagonist, filled with trials, triumphs, and transformative experiences.",
+        "author": "Samuel Johnson",
+        "genre": "Biography",
+        "publication_year": 2022
+    },
+    {
+        "id": 2,
+        "name": "Inspirational Biography",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Cover_of_Walter_Isaacson's_biography_of_Einstein.jpg",
+        "ratings": 4.5,
+        "views": 860,
+        "description": "A deeply moving biography that delves into the life of an extraordinary individual, highlighting their achievements and impact on the world.",
+        "author": "Eleanor Smith",
+        "genre": "Biography",
+        "publication_year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Life Journey",
+        "image_url": "https://marketplace.canva.com/EADaozIdOJY/1/0/1003w/canva-dark-woman-autobiography-book-cover-0yD9AXPVvdY.jpg",
+        "ratings": 4.3,
+        "views": 800,
+        "description": "A captivating life journey that explores the personal and professional milestones of a renowned figure.",
+        "author": "David Clark",
+        "genre": "Biography",
+        "publication_year": 2021
+    },
+    {
+        "id": 4,
+        "name": "Actor's Life",
+        "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/actor-biography-book-cover-design-template-9b3d3733b0fa2d3c495d5e75d5a388d6_screen.jpg?ts=1637012970",
+        "ratings": 4.6,
+        "views": 910,
+        "description": "An inside look into the life of a famous actor, detailing their rise to fame, struggles, and successes in the entertainment industry.",
+        "author": "Emma Thompson",
+        "genre": "Biography",
+        "publication_year": 2023
+    },
+    {
+        "id": 5,
+        "name": "Autobiography",
+        "image_url": "https://www.adazing.com/wp-content/uploads/2012/09/the-ballad-of-bob-dylan.jpg",
+        "ratings": 4.8,
+        "views": 1020,
+        "description": "An intimate autobiography that offers a firsthand account of the author's life, revealing personal insights and experiences.",
+        "author": "Mark Twain",
+        "genre": "Biography",
+        "publication_year": 2019
+    },
+    {
+        "id": 6,
+        "name": "Personal Memoir",
+        "image_url": "https://vancechristie.com/wp-content/uploads/2022/12/David-Livingstone-book-cover-scaled.jpg",
+        "ratings": 4.4,
+        "views": 780,
+        "description": "A heartfelt personal memoir that takes readers on an emotional journey through the author's most significant life events.",
+        "author": "Jane Austen",
+        "genre": "Biography",
+        "publication_year": 2018
+    },
+    {
+        "id": 7,
+        "name": "Best Biography",
+        "image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781847399328_9781847399328_hr.jpg",
+        "ratings": 4.9,
+        "views": 1200,
+        "description": "A collection of the best biographies, each offering a unique perspective on the lives of influential individuals.",
+        "author": "Henry Miller",
+        "genre": "Biography",
+        "publication_year": 2021
+    },
+    {
+        "id": 8,
+        "name": "David Livingstone",
+        "image_url": "https://th.bing.com/th/id/OIP.YKMfmtiwurEnx9ertgQg-gAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.5,
+        "views": 840,
+        "description": "An in-depth look at the life and legacy of David Livingstone, a pioneering explorer and missionary.",
+        "author": "Paul Stevens",
+        "genre": "Biography",
+        "publication_year": 2017
+    },
+    {
+        "id": 9,
+        "name": "Dreams From My Father",
+        "image_url": "https://th.bing.com/th/id/OIP.zr0tCw048l5zFKBf4S8Y7QAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.8,
+        "views": 1100,
+        "description": "A powerful and poignant memoir that explores the author's personal history and identity.",
+        "author": "Barack Obama",
+        "genre": "Biography",
+        "publication_year": 2004
+    },
+    {
+        "id": 10,
+        "name": "Inspirational Leader",
+        "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/actor-biography-book-cover-design-template-9b3d3733b0fa2d3c495d5e75d5a388d6_screen.jpg?ts=1637012970",
+        "ratings": 4.7,
+        "views": 950,
+        "description": "The life story of an inspirational leader who made a significant impact on society through their vision and actions.",
+        "author": "Nelson Mandela",
+        "genre": "Biography",
+        "publication_year": 1994
+    },
+    {
+        "id": 11,
+        "name": "Innovative Thinker",
+        "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/d6366178523331.5ca7172a3075f.png",
+        "ratings": 4.6,
+        "views": 880,
+        "description": "A detailed biography of an innovative thinker whose ideas and inventions have shaped the modern world.",
+        "author": "Steve Jobs",
+        "genre": "Biography",
+        "publication_year": 2011
+    },
+    {
+        "id": 12,
+        "name": "Vintage Biography",
+        "image_url": "https://www.adazing.com/wp-content/uploads/2012/09/icon-steve-jobs.jpg",
+        "ratings": 4.3,
+        "views": 820,
+        "description": "A vintage biography that captures the essence of a bygone era through the life of a notable figure.",
+        "author": "Virginia Woolf",
+        "genre": "Biography",
+        "publication_year": 1925
+    }
+]

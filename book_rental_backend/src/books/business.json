@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "name": "Business Success",
+        "image_url": "https://templates.mediamodifier.com/613f0914c2e73ef35fee6bb9/Business-Development-Magazine-Cover-Template.jpg",
+        "ratings": 4.7,
+        "views": 920,
+        "description": "A comprehensive guide to achieving business success, covering strategies and insights from top industry leaders.",
+        "author": "Alex Morgan",
+        "genre": "Business",
+        "publication_year": 2021
+    },
+    {
+        "id": 2,
+        "name": "Corporate Strategies",
+        "image_url": "https://th.bing.com/th/id/R.cdf8c3b08fb12889725802ce4bcacaa7?rik=8wyu17nymOFyMA&riu=http%3a%2f%2f7428.net%2fwp-content%2fuploads%2f2013%2f09%2fBusiness-Poster-Cover-Design-Vector.png&ehk=zpTIwXeyGy1kIS0TGXQSXhJcLvKHWoObTgytI%2fWf5HI%3d&risl=&pid=ImgRaw&r=0",
+        "ratings": 4.5,
+        "views": 860,
+        "description": "An in-depth look at corporate strategies that drive growth and innovation in the modern business world.",
+        "author": "Linda Johnson",
+        "genre": "Business",
+        "publication_year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Corporate Business",
+        "image_url": "https://img.lovepik.com/desgin_photo/45001/2043_detail.jpg!wh650",
+        "ratings": 4.3,
+        "views": 800,
+        "description": "A detailed analysis of corporate business models and their application in various industries.",
+        "author": "Michael Adams",
+        "genre": "Business",
+        "publication_year": 2022
+    },
+    {
+        "id": 4,
+        "name": "Ebook Business",
+        "image_url": "https://image.freepik.com/free-vector/business-cover-template_23-2147823394.jpg",
+        "ratings": 4.6,
+        "views": 910,
+        "description": "An essential guide for creating and marketing successful business eBooks.",
+        "author": "Rachel Green",
+        "genre": "Business",
+        "publication_year": 2023
+    },
+    {
+        "id": 5,
+        "name": "Blue Business",
+        "image_url": "https://images.examples.com/wp-content/uploads/2018/10/Business-Magazine-Cover-Page-Template.jpg",
+        "ratings": 4.8,
+        "views": 1020,
+        "description": "A visually appealing book cover template designed for professional business publications.",
+        "author": "Daniel Brown",
+        "genre": "Business",
+        "publication_year": 2019
+    },
+    {
+        "id": 6,
+        "name": "Professional Business",
+        "image_url": "https://cdn4.vectorstock.com/i/1000x1000/21/23/creative-business-facebook-cover-template-vector-28142123.jpg",
+        "ratings": 4.4,
+        "views": 780,
+        "description": "A modern business book cover template that emphasizes professionalism and corporate appeal.",
+        "author": "Sarah White",
+        "genre": "Business",
+        "publication_year": 2018
+    },
+    {
+        "id": 7,
+        "name": "Business Insights",
+        "image_url": "https://img.freepik.com/free-psd/business-promotion-corporate-facebook-cover-template_120329-1467.jpg",
+        "ratings": 4.9,
+        "views": 1200,
+        "description": "A collection of insights and advice from top business professionals across various industries.",
+        "author": "John Black",
+        "genre": "Business",
+        "publication_year": 2021
+    },
+    {
+        "id": 8,
+        "name": "Leadership in Business",
+        "image_url": "https://images.vexels.com/media/users/3/143743/raw/1f3a321325fa508750dfb10d589d7419-business-cover-design.jpg",
+        "ratings": 4.5,
+        "views": 840,
+        "description": "An exploration of leadership strategies and their impact on business success.",
+        "author": "Laura Green",
+        "genre": "Business",
+        "publication_year": 2017
+    },
+    {
+        "id": 9,
+        "name": "Business Growth",
+        "image_url": "https://th.bing.com/th/id/OIP.wDwXegVw60XxO7YKp94H0QAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.8,
+        "views": 1100,
+        "description": "A detailed guide to achieving sustainable business growth through innovative strategies.",
+        "author": "Peter Walker",
+        "genre": "Business",
+        "publication_year": 2022
+    },
+    {
+        "id": 10,
+        "name": "Success Secrets",
+        "image_url": "https://templates.mediamodifier.com/61437f48f5bfb45e8fd6cfd0/the-business-magazine-cover-template.jpg",
+        "ratings": 4.7,
+        "views": 950,
+        "description": "Unveiling the secrets to business success, with practical advice from industry experts.",
+        "author": "Karen Lee",
+        "genre": "Business",
+        "publication_year": 2019
+    },
+    {
+        "id": 11,
+        "name": "Small Business Guide",
+        "image_url": "https://templatelab.com/wp-content/uploads/2021/09/Business-Plan-Cover-Page-Template-scaled.jpg",
+        "ratings": 4.6,
+        "views": 880,
+        "description": "A comprehensive guide for small business owners, covering everything from startup to scaling.",
+        "author": "James Smith",
+        "genre": "Business",
+        "publication_year": 2020
+    },
+    {
+        "id": 12,
+        "name": "Startup Handbook",
+        "image_url": "https://static.vecteezy.com/system/resources/previews/000/178/568/original/vector-business-magazine-cover-template-design.jpg",
+        "ratings": 4.3,
+        "views": 820,
+        "description": "A practical handbook for startups, offering guidance on launching and growing a successful business.",
+        "author": "Sophia Davis",
+        "genre": "Business",
+        "publication_year": 2021
+    },
+    {
+        "id": 13,
+        "name": "Zero to CEO",
+        "image_url": "https://www.graphicmore.com/wp-content/uploads/2016/04/Business-Magazine-Cover.jpg",
+        "ratings": 4.9,
+        "views": 1050,
+        "description": "An award-winning book that chronicles the journey from a startup to a successful CEO.",
+        "author": "Andrew Wilson",
+        "genre": "Business",
+        "publication_year": 2022
+    }
+]

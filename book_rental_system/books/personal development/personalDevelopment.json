@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Personal Development Book",
+        "image_url": "51qP6OcMkeL.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Personal Development Book",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Personal Development Book",
+        "image_url": "attachment_90463074.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Personal Development Book",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Unknown Personal Development Book",
+        "image_url": "large_4876_01.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Personal Development Book",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Unknown Personal Development Book",
+        "image_url": "OIP.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Personal Development Book",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Personal Development Book",
+        "image_url": "original-cca82203e1a611ecd999a063547fa702.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Personal Development Book",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Personal Development Books",
+        "image_url": "Personal-Development-Books-683x1024.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Personal Development Books",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Personal Development Cover Front",
+        "image_url": "PERSONAL-DEVELOPMENT-Cover-Front-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Personal Development Cover Front",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Personal Growth Books",
+        "image_url": "Personal-Growth-books.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Personal Growth Books",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Ten Best Personal Development Books for Life Coaches",
+        "image_url": "Ten-Best-Personal-Development-Books-for-Life-Coaches-1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Ten Best Personal Development Books for Life Coaches",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "The Magic of Thinking Big",
+        "image_url": "The-Magic-of-Thinking-Big-Best-Personal-Development-Books-1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Magic of Thinking Big",
+        "author": "Unknown Author",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    }
+]

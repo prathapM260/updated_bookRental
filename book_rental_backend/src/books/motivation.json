@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "The Power of Positive Thinking",
+        "image_url": "https://images-platform.99static.com/m4TDJjo_JsOIdsC8z5YB-6ws-c4=/59x55:1294x1289/fit-in/590x590/99designs-contests-attachments/101/101834/attachment_101834420",
+        "ratings": 4.4,
+        "views": 209,
+        "description": "Description for The Power of Positive Thinking",
+        "author": "Emma Roberts",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Achieving Success: A Guide",
+        "image_url": "https://assets.visme.co/templates/banners/thumbnails/i_Inspirational-Book-Cover_full.jpg",
+        "ratings": 4.2,
+        "views": 198,
+        "description": "Description for Achieving Success: A Guide",
+        "author": "Andrew Carter",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Motivation: Fueling Your Drive",
+        "image_url": "https://th.bing.com/th/id/R.b5e777da5a9ea00ee216bb7e855a6422?rik=Lvzx8OrefnzCaQ&riu=http%3a%2f%2fwww.kingwoodcreations.com%2fwp-content%2fuploads%2f2016%2f05%2f16-05-04_50_S_000084.jpg&ehk=hPfT0S463iODL57FlrnBZoSRr26ybr0iwEn7vY7mR%2fQ%3d&risl=&pid=ImgRaw&r=0",
+        "ratings": 4.6,
+        "views": 225,
+        "description": "Description for Motivation: Fueling Your Drive",
+        "author": "Sophia King",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Clean and Minimalist Motivational",
+        "image_url": "https://th.bing.com/th/id/OIP.U4jAAkMUEuaIrJNDDO0P8AAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.3,
+        "views": 205,
+        "description": "Description for Clean and Minimalist Motivational",
+        "author": "Matthew Taylor",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Finding Your Passion",
+        "image_url": "https://th.bing.com/th/id/OIP.U4jAAkMUEuaIrJNDDO0P8AAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.5,
+        "views": 215,
+        "description": "Description for Finding Your Passion",
+        "author": "Sophie Davis",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Inspirational Book Cover",
+        "image_url": "https://th.bing.com/th/id/OIP.U4jAAkMUEuaIrJNDDO0P8AAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.1,
+        "views": 193,
+        "description": "Description for Inspirational Book Cover",
+        "author": "Joshua Hill",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "The Path to Success",
+        "image_url": "https://static.vecteezy.com/system/resources/previews/000/216/149/original/vector-simple-and-effective-motivational-book-cover-design-template.jpg",
+        "ratings": 4.4,
+        "views": 211,
+        "description": "Description for The Path to Success",
+        "author": "Emily White",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Simple and Effective Motivational",
+        "image_url": "https://i.pinimg.com/originals/f2/c0/10/f2c010a33cfd4e6b3c0bda3866e78c44.jpg",
+        "ratings": 4.0,
+        "views": 190,
+        "description": "Description for Simple and Effective Motivational",
+        "author": "Michael Roberts",
+        "genre": "Motivation",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Vector Simple and Effective Motivational",
+        "image_url": "https://i.pinimg.com/originals/f2/c0/10/f2c010a33cfd4e6b3c0bda3866e78c44.jpg",
+        "ratings": 4.2,
+        "views": 202,
+        "description": "Description for Vector Simple and Effective Motivational",
+        "author": "Grace Mitchell",
+        "genre": "Motivation",
+        "publication_year": 2024
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Mystery Book",
+        "image_url": "1003w-9g0hPVfwFll.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Mystery Book",
+        "image_url": "9781444960075.avif",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Artful Cover: A Date with Murder",
+        "image_url": "Artful-Cover_premade_1177478_A-Date-with-Murder_800x1200.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for A Date with Murder",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Unknown Mystery Book",
+        "image_url": "eYTIC-14-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Mystery Book",
+        "image_url": "OIP (1).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Unknown Mystery Book",
+        "image_url": "OIP (2).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Unknown Mystery Book",
+        "image_url": "OIP (3).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Unknown Mystery Book",
+        "image_url": "OIP (4).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "The Devouring",
+        "image_url": "The-Devouring-james-r-benn-best-mystery-thriller-book-covers-2017-768x1156.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Devouring",
+        "author": "James R. Benn",
+        "genre": "Mystery",
+        "publication_year": 2017
+    },
+    {
+        "id": 10,
+        "name": "Unknown Mystery Book",
+        "image_url": "OIP.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Mystery Book",
+        "author": "Unknown Author",
+        "genre": "Mystery",
+        "publication_year": 2024
+    }
+]

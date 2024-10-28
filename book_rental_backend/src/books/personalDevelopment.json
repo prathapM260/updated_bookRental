@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Personal Fitness Handbook",
+        "image_url": "https://images-platform.99static.com/Uvafe1RrBNhNNDWVjeE1IdzI1P8=/0x190:1275x1465/500x500/top/smart/99designs-contests-attachments/90/90463/attachment_90463074",
+        "ratings": 3.8,
+        "views": 213,
+        "description": "Description for Personal Fitness Handbook",
+        "author": "Jane Doe",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Bodybuilding Basics",
+        "image_url": "https://dcassetcdn.com/design_img/3978396/71899/27460172/weaba4ktzkb8t2vc6aqhc4nmfd_image.jpg",
+        "ratings": 4.2,
+        "views": 189,
+        "description": "Description for Bodybuilding Basics",
+        "author": "John Smith",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Strength Training Secrets",
+        "image_url": "https://dev.beautifulyoucoachingacademy.com/wp-content/uploads/2014/07/Ten-Best-Personal-Development-Books-for-Life-Coaches-1.png",
+        "ratings": 4.5,
+        "views": 312,
+        "description": "Description for Strength Training Secrets",
+        "author": "Emily Brown",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Healthy Living Handbook",
+        "image_url": "https://th.bing.com/th/id/OIP.FILiUbg89UDlAUOffirB_AAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.0,
+        "views": 258,
+        "description": "Description for Healthy Living Handbook",
+        "author": "Michael Johnson",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Yoga for Beginners",
+        "image_url": "https://images-platform.99static.com/hIcJsavOfau3IRecpw9XSgn3nvs=/0x0:960x960/500x500/top/smart/99designs-contests-attachments/90/90350/attachment_90350029",
+        "ratings": 4.1,
+        "views": 198,
+        "description": "Description for Yoga for Beginners",
+        "author": "Sophia Anderson",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Athletic Performance Secrets",
+        "image_url": "https://images-platform.99static.com/j3AlgVwNY0uRnmEaL0mj5GLudmQ=/0x2396:1200x3596/500x500/top/smart/99designs-contests-attachments/138/138115/attachment_138115766",
+        "ratings": 4.3,
+        "views": 275,
+        "description": "Description for Athletic Performance Secrets",
+        "author": "Robert Wilson",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Fitness Motivation Guide",
+        "image_url": "https://i.pinimg.com/736x/d7/15/41/d715418743d3bd4526ea58912096edd2.jpg",
+        "ratings": 4.4,
+        "views": 301,
+        "description": "Description for Fitness Motivation Guide",
+        "author": "Emma Taylor",
+        "genre": "Physical Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Nutrition Essentials",
+        "image_url": "https://www.idplr.com/components/com_remository_files/file_image_4876/large_4876_01.jpg",
+        "ratings": 4.6,
+        "views": 342,
+        "description": "Description for Nutrition Essentials",
+        "author": "Daniel Moore",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Running for Beginners",
+        "image_url": "https://th.bing.com/th/id/R.6e1469365f5c34cac3c7f1f8a6dea63f?rik=Hu%2btnzpIQRQ%2fww&riu=http%3a%2f%2fstatic1.squarespace.com%2fstatic%2f54baa08ce4b077c9026fe7b1%2ft%2f5644bd62e4b0cca19eb62b7a%2f1447345510217%2f%3fformat%3d1500w&ehk=L7wGPbJYp%2bSamxQm3AkhM0kHL3BsPP1l2AW8qX3lgmw%3d&risl=&pid=ImgRaw&r=0",
+        "ratings": 4.2,
+        "views": 279,
+        "description": "Description for Running for Beginners",
+        "author": "Olivia Parker",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "Mindful Exercise",
+        "image_url": "https://th.bing.com/th/id/OIP.wgKbUQso9_JBlYx8uBx6VQAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.3,
+        "views": 311,
+        "description": "Description for Mindful Exercise",
+        "author": "James Carter",
+        "genre": "Personal Development",
+        "publication_year": 2024
+    }
+]

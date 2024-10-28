@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Gourmet Cooking",
+        "image_url": "https://www.edrawsoft.com/templates/images/cooking-book-cover.png",
+        "ratings": 4.7,
+        "views": 1150,
+        "description": "Explore the world of gourmet cooking with this comprehensive guide filled with recipes and techniques from top chefs.",
+        "author": "Emma Baker",
+        "genre": "Cooking",
+        "publication_year": 2021
+    },
+    {
+        "id": 2,
+        "name": "Home Cooking Secrets",
+        "image_url": "https://th.bing.com/th/id/OIP.y2SzMBcGqJOHKZIUr1QTQgAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.6,
+        "views": 1050,
+        "description": "Discover the secrets of home cooking with easy-to-follow recipes and tips for delicious meals.",
+        "author": "Liam Carter",
+        "genre": "Cooking",
+        "publication_year": 2020
+    },
+    {
+        "id": 3,
+        "name": "Cooking Basics",
+        "image_url": "https://cover2coverbookdesign.com/site/wp-content/uploads/2019/10/FreshFood.jpg",
+        "ratings": 4.4,
+        "views": 980,
+        "description": "A beginner's guide to cooking, covering essential techniques and recipes for everyday meals.",
+        "author": "Olivia Roberts",
+        "genre": "Cooking",
+        "publication_year": 2019
+    },
+    {
+        "id": 4,
+        "name": "Fresh Food",
+        "image_url": "https://marketplace.canva.com/EAFKfhzQG8Q/1/0/1003w/canva-black-white-simple-minimalist-cook-recipe-book-cover-KfvwFqDXuOg.jpg",
+        "ratings": 4.8,
+        "views": 1200,
+        "description": "A collection of recipes focused on fresh and healthy ingredients for delicious and nutritious meals.",
+        "author": "Noah Evans",
+        "genre": "Cooking",
+        "publication_year": 2022
+    },
+    {
+        "id": 5,
+        "name": "Home-style Cooking",
+        "image_url": "https://png.pngtree.com/png-clipart/20211017/original/pngtree-recipe-book-cover-home-cooking-template-png-image_6851320.png",
+        "ratings": 4.7,
+        "views": 1120,
+        "description": "A guide to home-style cooking with comforting and hearty recipes that bring the family together.",
+        "author": "Sophia Martinez",
+        "genre": "Cooking",
+        "publication_year": 2020
+    },
+    {
+        "id": 6,
+        "name": "Artisan Cooking",
+        "image_url": "https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/1631/posts/34919/image/Screenshot%202020-04-17%20at%209.10.21%20pm%20copy.jpg",
+        "ratings": 4.5,
+        "views": 950,
+        "description": "Learn the art of artisan cooking with step-by-step recipes and techniques for gourmet meals.",
+        "author": "William Johnson",
+        "genre": "Cooking",
+        "publication_year": 2021
+    },
+    {
+        "id": 7,
+        "name": "Culinary Delights",
+        "image_url": "https://online.visual-paradigm.com/repository/images/0c68acce-8212-4cb2-8cd8-e8ca18066f2a/book-covers-design/delicious-home-cooking-book-cover.png",
+        "ratings": 4.9,
+        "views": 1250,
+        "description": "A culinary journey through delightful recipes and cooking techniques from around the world.",
+        "author": "Mia Taylor",
+        "genre": "Cooking",
+        "publication_year": 2022
+    },
+    {
+        "id": 8,
+        "name": "Family Recipes",
+        "image_url": "https://th.bing.com/th/id/OIP.gWzWjx1mkSw4l4Uyqo5rpwAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.6,
+        "views": 1070,
+        "description": "A collection of treasured family recipes passed down through generations, perfect for family gatherings.",
+        "author": "James Brown",
+        "genre": "Cooking",
+        "publication_year": 2019
+    },
+    {
+        "id": 9,
+        "name": "Healthy Cooking",
+        "image_url": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/03/attachment_56599331-e1490051476624.jpg?auto=format&q=60&fit=max&w=930",
+        "ratings": 4.7,
+        "views": 1150,
+        "description": "A guide to healthy cooking with nutritious recipes and tips for a balanced diet.",
+        "author": "Isabella Clark",
+        "genre": "Cooking",
+        "publication_year": 2021
+    },
+    {
+        "id": 10,
+        "name": "Basic Cookbook Guide",
+        "image_url": "https://www.printablee.com/postpic/2010/02/free-printable-cookbook-covers_220999.jpg",
+        "ratings": 4.5,
+        "views": 990,
+        "description": "A basic cookbook guide covering fundamental recipes and cooking techniques for beginners.",
+        "author": "Lucas Wilson",
+        "genre": "Cooking",
+        "publication_year": 2020
+    }
+]

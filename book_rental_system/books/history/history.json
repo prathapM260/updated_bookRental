@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown History Book",
+        "image_url": "81CLmdY62XL.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown History Book",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Ancient Architecture History",
+        "image_url": "ancient-architecture-history-book-cover-template-visme.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Ancient Architecture History",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Unknown History Book",
+        "image_url": "bookcoverdesigner-books-bookcover-bookdesign-coverdesigner-franziska-stern-coverdungeonrabbit-book-cover-design-fantasy-tarnishe....jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown History Book",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Canva Beige Vintage Novel",
+        "image_url": "canva-beige-vintage-novel-book-cover-6g30GeWsw4k.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Canva Beige Vintage Novel",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown History Book",
+        "image_url": "DCP_1313_0.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown History Book",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Historical 1",
+        "image_url": "Historical1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Historical 1",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Unknown History Book",
+        "image_url": "R.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown History Book",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "The History of the Ancient World",
+        "image_url": "the-history-of-the-ancient-world.jpg.optimal.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The History of the Ancient World",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Travel Guide",
+        "image_url": "Travel Guide.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Travel Guide",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "WW1 Crusaders",
+        "image_url": "WW1-Crusaders-Cover-711x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for WW1 Crusaders",
+        "author": "Unknown Author",
+        "genre": "History",
+        "publication_year": 2024
+    }
+]

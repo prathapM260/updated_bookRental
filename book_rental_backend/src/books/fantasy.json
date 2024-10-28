@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Realm of Magic",
+        "image_url": "https://www.bookcoversart.com/wp-content/uploads/2020/12/Epic_Fantasy_Book_Cover_Return_of_the_Dragons.jpg",
+        "ratings": 4.2,
+        "views": 325,
+        "description": "Description for April Young Adult",
+        "author": "Jessica Williams",
+        "genre": "Young Adult",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Legends of Eldoria",
+        "image_url": "https://th.bing.com/th/id/OIP.XS_rPmWeqK0ptfRshJmy7AAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 3.8,
+        "views": 254,
+        "description": "Description for Fantasy Cover January",
+        "author": "Michael Johnson",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Eternal Enchantment",
+        "image_url": "https://th.bing.com/th/id/R.9fa619d68bed935151fe183847dd8326?rik=Yj3DI2oJBzR4tA&riu=http%3a%2f%2fcdn.pastemagazine.com%2fwww%2farticles%2fDiscworld.jpg&ehk=PxiV7FxYXJ%2byQUakYezTQHRQoiuxgb3ThDDT%2bttPaPs%3d&risl=1&pid=ImgRaw&r=0",
+        "ratings": 4.5,
+        "views": 402,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Emily Clark",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Sorcerer's Saga",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/11/Gill-Trewick_3_ebook-685x1024.jpg",
+        "ratings": 4.0,
+        "views": 289,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Daniel Anderson",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Dragonheart Chronicles",
+        "image_url": "https://miblart.com/wp-content/uploads/2022/12/fantasy-cover-january-4-768x1226-1-641x1024.jpeg",
+        "ratings": 4.3,
+        "views": 376,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Sophia Roberts",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "The Curse of Infinity",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/11/Marc_Kelly_ebook-684x1024.jpg",
+        "ratings": 4.7,
+        "views": 421,
+        "description": "Description for The Curse of Infinity",
+        "author": "Rachel Hetrick",
+        "genre": "Fantasy",
+        "publication_year": 2023
+    },
+    {
+        "id": 7,
+        "name": "Dragonborn Prophecy",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/01/april-young-adult-768x1152-1-683x1024.jpeg",
+        "ratings": 4.1,
+        "views": 312,
+        "description": "Description for Young Adult 2",
+        "author": "Olivia Taylor",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Shadowcaster's Legacy",
+        "image_url": "https://th.bing.com/th/id/OIP.9QDXaovYbnRA-4Qqss14YwAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 3.9,
+        "views": 278,
+        "description": "Description for YA Urban Paranormal Academy",
+        "author": "Nathan Scott",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Elysian Legends",
+        "image_url": "https://th.bing.com/th/id/OIP.-wfoOIlxfchpfCmIELTFtAHaL2?rs=1&pid=ImgDetMain",
+        "ratings": 4.4,
+        "views": 387,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Lucas Miller",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "Kingdom of Dreams",
+        "image_url": "https://thenobleartist.com/wp-content/uploads/2020/12/book2b-scaled.jpg",
+        "ratings": 4.6,
+        "views": 412,
+        "description": "Description for Unknown Fantasy Book",
+        "author": "Isabella White",
+        "genre": "Fantasy",
+        "publication_year": 2024
+    }
+]

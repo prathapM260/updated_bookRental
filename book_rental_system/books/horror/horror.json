@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Book",
+        "image_url": "1BRQE2MU.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Book",
+        "image_url": "2LTd4fOY.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Unknown Book",
+        "image_url": "6tZyPWII-683x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Unknown Book",
+        "image_url": "eYTIC-14-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Book",
+        "image_url": "FPs9qMvc-644x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Unknown Book",
+        "image_url": "Jonathan-Sixtos-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Unknown Book",
+        "image_url": "NINGA9dE-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Unknown Book",
+        "image_url": "OIP.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Unknown Book",
+        "image_url": "Raymond-Beckham-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Book",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "The Devil's Cat",
+        "image_url": "TheDevilsCat1.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for The Devil's Cat",
+        "author": "Unknown Author",
+        "genre": "Unknown Genre",
+        "publication_year": 2024
+    }
+]

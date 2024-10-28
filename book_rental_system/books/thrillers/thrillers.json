@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Thriller Book",
+        "image_url": "1BRQE2MU.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Thriller Book",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Thriller Book",
+        "image_url": "b755d46ca3bcc5f8476b8b385f90c308.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Thriller Book",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Crime Thriller Mystery Cinematic Premade Book Cover: The Hound",
+        "image_url": "Crime-Thriller-Mystery-Cinematic-Premade-Book-Cover-The-Hound.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Crime Thriller Mystery Cinematic Premade Book Cover: The Hound",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "David Lyons Ebook",
+        "image_url": "David_Lyons_ebook-641x1024.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for David Lyons Ebook",
+        "author": "David Lyons",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Dean Rasmussen Ebook",
+        "image_url": "Dean_Rasmussen_ebook-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Dean Rasmussen Ebook",
+        "author": "Dean Rasmussen",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Unknown Thriller Book",
+        "image_url": "eYTIC-14-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Thriller Book",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Suspense Crime Thriller Mystery Premade Book Cover: Just a Little Lie",
+        "image_url": "Suspense_Crime_Thriller_Mystery_Premade_Book_Cover_Just_a_Little_Lie.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Suspense Crime Thriller Mystery Premade Book Cover: Just a Little Lie",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Unknown Thriller Book",
+        "image_url": "wnObjHpM-scaled.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Thriller Book",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 1,
+        "name": "Unknown Thriller Book",
+        "image_url": "OIP (1).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Thriller Book",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Thriller Book",
+        "image_url": "OIP.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Thriller Book",
+        "author": "Unknown Author",
+        "genre": "Thriller",
+        "publication_year": 2024
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Unknown Motivational Book",
+        "image_url": "16-05-04_50_S_000084.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Motivational Book",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Unknown Motivational Book",
+        "image_url": "517MT5F7NOL.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Motivational Book",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Unknown Motivational Book",
+        "image_url": "attachment_75633854.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Motivational Book",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Clean and Minimalist Motivational",
+        "image_url": "clean-and-minimalist-motivational-book-cover-design-vector.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Clean and Minimalist Motivational",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Unknown Motivational Book",
+        "image_url": "f2c010a33cfd4e6b3c0bda3866e78c44.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Motivational Book",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Inspirational Book Cover",
+        "image_url": "i_Inspirational-Book-Cover_full.webp",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Inspirational Book Cover",
+        "author": "Unknown Author",
+        "genre": "Inspirational",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Unknown Motivational Book",
+        "image_url": "OIP (1).jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Unknown Motivational Book",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Simple and Effective Motivational",
+        "image_url": "simple-and-effective-motivational-book-cover-design-template-vector.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Simple and Effective Motivational",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Vector Simple and Effective Motivational",
+        "image_url": "vector-simple-and-effective-motivational-book-cover-design-template.jpg",
+        "ratings": 0,
+        "views": 0,
+        "description": "Description for Vector Simple and Effective Motivational",
+        "author": "Unknown Author",
+        "genre": "Motivational",
+        "publication_year": 2024
+    }
+]

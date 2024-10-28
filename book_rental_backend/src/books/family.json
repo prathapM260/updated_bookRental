@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Heartfelt Bonds",
+        "image_url": "https://book-genres.com/wp-content/uploads/family-book-genre.jpg",
+        "ratings": 4.5,
+        "views": 315,
+        "description": "Description for Unknown Family Book",
+        "author": "Sophie Johnson",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Generations Apart",
+        "image_url": "https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316146333.jpg",
+        "ratings": 4.2,
+        "views": 278,
+        "description": "Description for Unknown Family Book",
+        "author": "Emma Davis",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "A Mother's Legacy",
+        "image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781606524855_9781606524855_hr.jpg",
+        "ratings": 4.3,
+        "views": 301,
+        "description": "Description for Unknown Family Book",
+        "author": "Oliver Wilson",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Bonds of Love",
+        "image_url": "https://th.bing.com/th/id/R.f8bbd0a5b3d1772e6122d65831280252?rik=9QD5Pvw3JlUYdw&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9780316070409_p0_v1_s1200x630.jpg&ehk=Lvcf6wbW1ArkjcUq62q1v8RajC1qlsQdgVOhp0i4DCc%3d&risl=&pid=ImgRaw&r=0",
+        "ratings": 4.1,
+        "views": 292,
+        "description": "Description for Unknown Family Book",
+        "author": "Isabella Moore",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Family Ties",
+        "image_url": "https://i.pinimg.com/originals/c3/e4/7b/c3e47b63dcb27eb305f5f162d185f740.jpg",
+        "ratings": 4.4,
+        "views": 325,
+        "description": "Description for Unknown Family Book",
+        "author": "William Thompson",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Family Romance Novel",
+        "image_url": "https://www.kindercare.com/-/media/contenthub/images/article-images/activities-for-kids/books-galore/celebrate-all-kinds-of-families-10-lovefilled-books-about-families-of-every-ilk/heather-has-two-mommies-cover.jpg",
+        "ratings": 4.6,
+        "views": 378,
+        "description": "Description for Family Romance Novel",
+        "author": "Emily Parker",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Family Tree",
+        "image_url": "https://images.thenile.io/r1000/9781406337532.jpg",
+        "ratings": 4.3,
+        "views": 307,
+        "description": "Description for Family Tree",
+        "author": "James Brown",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Legacy of Love",
+        "image_url": "https://book-genres.com/wp-content/uploads/family-saga-genre.jpg",
+        "ratings": 4.0,
+        "views": 268,
+        "description": "Description for Unknown Family Book",
+        "author": "Sophia White",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "A Family Affair",
+        "image_url": "https://www.kindercare.com/content-hub/-/media/contenthub/images/article-images/activities%20for%20kids/books%20galore/celebrate%20all%20kinds%20of%20families%2010%20lovefilled%20books%20about%20families%20of%20every%20ilk/family%20book%20cover.jpg",
+        "ratings": 4.2,
+        "views": 292,
+        "description": "Description for Unknown Family Book",
+        "author": "Jacob Green",
+        "genre": "Family",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "The Everything Family Tree Book",
+        "image_url": "https://th.bing.com/th/id/OIP.k2UdKLPC2gqGLGA8PsjezAAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.5,
+        "views": 318,
+        "description": "Description for The Everything Family Tree Book",
+        "author": "Charlotte Evans",
+        "genre": "Family",
+        "publication_year": 2024
+    }
+]

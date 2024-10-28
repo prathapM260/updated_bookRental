@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "The Rise and Fall of the Third Reich",
+        "image_url": "https://th.bing.com/th/id/OIP.1rQdtnhkpNYjFRhwiN-5ZQHaLH?rs=1&pid=ImgDetMain",
+        "ratings": 4.6,
+        "views": 205,
+        "description": "Description for The Rise and Fall of the Third Reich",
+        "author": "William L. Shirer",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "Ancient Architecture History",
+        "image_url": "https://th.bing.com/th/id/R.8f92010dca2cbe6ac1bf9daaa21e482f?rik=yfVObo%2fzvHRx0Q&riu=http%3a%2f%2fgretachristina.typepad.com%2f.a%2f6a00d8341bf68b53ef015432144b77970c-800wi&ehk=f53QQp7UvdORtko7r7JKMl7TzfJfLl0ZF7MjkEb9wlI%3d&risl=&pid=ImgRaw&r=0",
+        "ratings": 4.4,
+        "views": 198,
+        "description": "Description for Ancient Architecture History",
+        "author": "Thomas Hines",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "The History of the Peloponnesian War",
+        "image_url": "https://th.bing.com/th/id/OIP.0vd8pOrQsOoBO7Jwt4vpUQAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.7,
+        "views": 215,
+        "description": "Description for The History of the Peloponnesian War",
+        "author": "Thucydides",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "Canva Beige Vintage Novel",
+        "image_url": "https://cdn2.penguin.com.au/covers/original/9780241225929.jpg",
+        "ratings": 4.5,
+        "views": 200,
+        "description": "Description for Canva Beige Vintage Novel",
+        "author": "John Doe",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "The Decline and Fall of the Roman Empire",
+        "image_url": "https://s2982.pcdn.co/wp-content/uploads/2021/02/the-history-of-the-ancient-world.jpg.optimal.jpg",
+        "ratings": 4.3,
+        "views": 195,
+        "description": "Description for The Decline and Fall of the Roman Empire",
+        "author": "Edward Gibbon",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Historical 1",
+        "image_url": "https://th.bing.com/th/id/R.c3a911977b320bcd731096fcb29a2be2?rik=BOsjbmVc5GJqXg&riu=http%3a%2f%2fwww.coverbrowser.com%2fimage%2fhistory-books%2f45-7.jpg&ehk=%2fKySx6ISPfRFEWin%2bRIto65lYrqLDgIWGbvdfyKLKTs%3d&risl=&pid=ImgRaw&r=0",
+        "ratings": 4.2,
+        "views": 190,
+        "description": "Description for Historical 1",
+        "author": "Jane Smith",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "World War II: A History",
+        "image_url": "https://i.pinimg.com/736x/d9/8d/6f/d98d6f7e5530c8514561b535bb25dd99.jpg",
+        "ratings": 4.6,
+        "views": 210,
+        "description": "Description for World War II: A History",
+        "author": "Antony Beevor",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "The History of the Ancient World",
+        "image_url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/history-book-cover-design-template-0e3961aae83cdeab2d3b120dd2d7063c_screen.jpg?ts=1692216756",
+        "ratings": 4.8,
+        "views": 225,
+        "description": "Description for The History of the Ancient World",
+        "author": "Susan Wise Bauer",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Travel Guide",
+        "image_url": "https://cover2coverbookdesign.com/site/wp-content/uploads/2019/03/western-cowboy1a.jpg",
+        "ratings": 4.4,
+        "views": 202,
+        "description": "Description for Travel Guide",
+        "author": "Rick Steves",
+        "genre": "History",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "WW1 Crusaders",
+        "image_url": "https://www.teacharesources.com/wp-content/uploads/2021/09/History-covers-gallery-pdf.jpg",
+        "ratings": 4.7,
+        "views": 215,
+        "description": "Description for WW1 Crusaders",
+        "author": "Richard Aldrich",
+        "genre": "History",
+        "publication_year": 2024
+    }
+]

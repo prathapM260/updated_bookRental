@@ -1,0 +1,148 @@
+/* Navbar Container */
+.navbar-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar Top Section */
+.navbar-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: #f8f9fa;
+}
+
+.navbar-top a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-top .logo {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-top .logo img {
+  width: 2.5rem;
+  margin-right: 0.5rem;
+}
+
+/* Search Bar */
+.search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input {
+  width: 200px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 2rem;
+  transition: width 0.3s ease;
+}
+
+.search-bar input:focus {
+  width: 300px;
+  border-color: #007bff;
+}
+
+.search-bar svg {
+  position: absolute;
+  right: 0.5rem;
+  color: #888;
+}
+
+/* Navbar Menu */
+.navbar-menu {
+  display: flex;
+  justify-content: center;
+  background-color: #343a40;
+}
+
+.navbar-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar-menu li {
+  display: inline-block;
+}
+
+.navbar-menu a {
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+  display: block;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-menu a:hover {
+  background-color: #495057;
+}
+
+/* Dropdown Menu */
+.dropdown {
+  position: relative;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.dropdown-menu a {
+  color: black;
+  padding: 0.5rem 1rem;
+  display: block;
+}
+
+.dropdown-menu a:hover {
+  background-color: #f8f9fa;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+  background-color: #343a40;
+  color: white;
+}
+
+.dark-mode .navbar-top,
+.dark-mode .search-bar input {
+  background-color: #495057;
+  border-color: #495057;
+}
+
+.dark-mode .navbar-menu {
+  background-color: #343a40;
+}
+
+.dark-mode .navbar-menu a:hover {
+  background-color: #495057;
+}
+
+.dark-mode .dropdown-menu {
+  background-color: #343a40;
+}
+
+.dark-mode .dropdown-menu a:hover {
+  background-color: #495057;
+}

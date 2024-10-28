@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Secrets of the Shadows",
+        "image_url": "https://th.bing.com/th/id/OIP.F23lLhPdFgj0FgSkL2zLagHaLG?rs=1&pid=ImgDetMain",
+        "ratings": 4.2,
+        "views": 0,
+        "description": "Description for Secrets of the Shadows",
+        "author": "Emily Collins",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 2,
+        "name": "The Silent Conspiracy",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/ZP6x4iTg-scaled.jpeg",
+        "ratings": 4.5,
+        "views": 0,
+        "description": "Description for The Silent Conspiracy",
+        "author": "James Anderson",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 3,
+        "name": "Crime Thriller Mystery Cinematic Premade Book Cover: The Hound",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/2LTd4fOY.jpeg",
+        "ratings": 4.0,
+        "views": 0,
+        "description": "Description for Crime Thriller Mystery Cinematic Premade Book Cover: The Hound",
+        "author": "Sarah Johnson",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 4,
+        "name": "David Lyons Ebook",
+        "image_url": "https://th.bing.com/th/id/OIP.1r8RM43LWfiV9A68AYh7WwHaL1?w=641&h=1024&rs=1&pid=ImgDetMain",
+        "ratings": 4.8,
+        "views": 0,
+        "description": "Description for David Lyons Ebook",
+        "author": "David Lyons",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 5,
+        "name": "Dean Rasmussen Ebook",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/FPs9qMvc-644x1024.jpeg",
+        "ratings": 4.3,
+        "views": 0,
+        "description": "Description for Dean Rasmussen Ebook",
+        "author": "Dean Rasmussen",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 6,
+        "name": "Midnight Intrigue",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/Logan_Rutherford_ebook-scaled.jpg",
+        "ratings": 4.1,
+        "views": 0,
+        "description": "Description for Midnight Intrigue",
+        "author": "Sophia Evans",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 7,
+        "name": "Suspense Crime Thriller Mystery Premade Book Cover: Just a Little Lie",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/Dean_Rasmussen_ebook-scaled.jpg",
+        "ratings": 4.6,
+        "views": 0,
+        "description": "Description for Suspense Crime Thriller Mystery Premade Book Cover: Just a Little Lie",
+        "author": "Michael Roberts",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 8,
+        "name": "Dark Secrets",
+        "image_url": "https://www.rockingbookcovers.com/wp-content/uploads/2020/05/Diehard.jpg",
+        "ratings": 4.4,
+        "views": 0,
+        "description": "Description for Dark Secrets",
+        "author": "Emma Thompson",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 9,
+        "name": "Echoes of Betrayal",
+        "image_url": "https://miblart.com/wp-content/uploads/2020/10/6tZyPWlI-683x1024.jpeg",
+        "ratings": 4.7,
+        "views": 0,
+        "description": "Description for Echoes of Betrayal",
+        "author": "William Clarke",
+        "genre": "Thriller",
+        "publication_year": 2024
+    },
+    {
+        "id": 10,
+        "name": "Whispers in the Dark",
+        "image_url": "https://th.bing.com/th/id/OIP.6SHTGPKZrRbYnQlutVcM_QAAAA?rs=1&pid=ImgDetMain",
+        "ratings": 4.9,
+        "views": 0,
+        "description": "Description for Whispers in the Dark",
+        "author": "Sophie Turner",
+        "genre": "Thriller",
+        "publication_year": 2024
+    }
+]
