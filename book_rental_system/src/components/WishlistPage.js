@@ -19,7 +19,7 @@ const WishlistPage = () => {
           const userId = decoded.user.id;
           console.log("Fetching wishlist items for user ID:", userId);
   
-          const response = await axios.get(`http://localhost:5000/api/wishlist/${userId}`);
+          const response = await axios.get(`https://updated-bookrental-2.onrender.com/api/wishlist/${userId}`);
           console.log("Wishlist items response:", response.data);
   
           if (response.data.items) {
