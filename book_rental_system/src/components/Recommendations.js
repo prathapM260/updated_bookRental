@@ -8,7 +8,7 @@ const Recommendations = () => {
     // Fetch recommendations from an API or a static data source
     const fetchRecommendations = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/recommendations');
+        const response = await axios.get('https://updated-bookrental-2.onrender.com/api/recommendations');
         setRecommendations(response.data);
       } catch (error) {
         console.error('Error fetching recommendations:', error);
