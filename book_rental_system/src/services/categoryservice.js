@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/categories';
+const API_URL = 'https://updated-bookrental-2.onrender.com/api/categories';
 
 export const fetchCategories = async () => {
   try {
