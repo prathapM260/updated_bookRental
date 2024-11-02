@@ -6,7 +6,7 @@ const useWishlistStore = create((set) => ({
   // Function to fetch wishlist items
   fetchWishlistItems: async (userId) => {
     try {
-      const response = await fetch(`http://localhost:5000/api/wishlist/${userId}`);
+      const response = await fetch(`https://updated-bookrental-2.onrender.com/api/wishlist/${userId}`);
       if (!response.ok) {
         throw new Error('Failed to fetch wishlist items');
       }
