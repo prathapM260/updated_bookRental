@@ -18,7 +18,7 @@ const useWishlistStore = create((set) => ({
 
   addToWishlist: async (userId, item) => {
     try {
-      const response = await fetch(`http://localhost:5000/api/wishlist/add/${userId}`, {
+      const response = await fetch(`https://updated-bookrental-2.onrender.com/api/wishlist/add/${userId}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
