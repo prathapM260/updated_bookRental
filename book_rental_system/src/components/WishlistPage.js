@@ -48,7 +48,7 @@ const WishlistPage = () => {
         const decoded = jwtDecode(user1.token);
         const userId = decoded.user.id;
 
-        await axios.post(`http://localhost:5000/api/wishlist/remove`, { userId, itemId });
+        await axios.post(`https://updated-bookrental-2.onrender.com/api/wishlist/remove`, { userId, itemId });
 
         setWishlistItems((prevItems) => prevItems.filter(item => item._id !== itemId));
       } catch (error) {
@@ -64,7 +64,7 @@ const WishlistPage = () => {
         const decoded = jwtDecode(user1.token);
         const userId = decoded.user.id;
 
-        await axios.post(`http://localhost:5000/api/wishlist/clear`, { userId });
+        await axios.post(`https://updated-bookrental-2.onrender.com/api/wishlist/clear`, { userId });
 
         setWishlistItems([]);
       } catch (error) {
