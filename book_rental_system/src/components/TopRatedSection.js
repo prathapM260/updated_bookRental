@@ -179,7 +179,7 @@ const TopRatedSection = () => {
   useEffect(() => {
     const fetchTopRatedBooks = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/top-rated');
+        const response = await axios.get('https://updated-bookrental-2.onrender.com/api/top-rated');
         setTopRatedBooks(response.data);
         console.log("Data fetched", response);
       } catch (error) {
