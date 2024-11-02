@@ -122,7 +122,7 @@ exports.signIn = async (req, res) => {
 // Function to get all users
 exports.getAllUsers = async (req, res) => {
   try {
-    const users = await User.find({}, 'username name email role designations'); // Adjust fields as needed
+    const users = await User.find(); // Retrieves all fields of each user
     res.json(users);
   } catch (err) {
     console.error(err.message);
