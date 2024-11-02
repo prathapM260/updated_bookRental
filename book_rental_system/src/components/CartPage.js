@@ -134,7 +134,7 @@ const CartPage = () => {
           const decoded = jwtDecode(user1.token);
           const userId = decoded.user.id;
 
-          const response = await axios.get(`http://localhost:5000/api/cart/${userId}`);
+          const response = await axios.get(`https://updated-bookrental-2.onrender.com/api/cart/${userId}`);
           setCartItems(response.data.items); // Assuming response.data.items contains the cart items
         } catch (error) {
           console.error("Error decoding token or fetching cart items:", error);
