@@ -222,7 +222,7 @@ const BookPage = () => {
         setBook(response.data);
 
         // Fetch similar books based on genre
-        const similarResponse = await axios.get(`http://localhost:5000/api/books?genre=${response.data.genre}`);
+        const similarResponse = await axios.get(`https://updated-bookrental-2.onrender.com/api/books?genre=${response.data.genre}`);
         setSimilarBooks(similarResponse.data.filter((b) => b._id !== id));
 
         // Fetch all books
@@ -254,7 +254,7 @@ const BookPage = () => {
     const userId = decodeToken();
 
     try {
-      await axios.post(`http://localhost:5000/api/cart/add/cart`, { userId, name, image_url, author, genre });
+      await axios.post(`https://updated-bookrental-2.onrender.com/api/cart/add/cart`, { userId, name, image_url, author, genre });
       setCart(true);
       alert('Book added to cart successfully!');
       const updatedCartItems = await fetchCartItems(userId);
@@ -271,7 +271,7 @@ const BookPage = () => {
     const userId = decodeToken();
 
     try {
-      await axios.post(`http://localhost:5000/api/wishlist/add`, { userId, name, image_url, author, genre });
+      await axios.post(`https://updated-bookrental-2.onrender.com/api/wishlist/add`, { userId, name, image_url, author, genre });
       setWishlist(true);
       alert('Book added to wishlist successfully!');
       const updatedWishlistItems = await fetchWishlistItems(userId);
@@ -285,7 +285,7 @@ const BookPage = () => {
 
   const fetchCartItems = async (userId) => {
     try {
-      const response = await axios.get(`http://localhost:5000/api/cart/${userId}`);
+      const response = await axios.get(`https://updated-bookrental-2.onrender.com/api/cart/${userId}`);
       return response.data;
     } catch (error) {
       console.error('Error fetching cart items:', error);
@@ -295,7 +295,7 @@ const BookPage = () => {
 
   const fetchWishlistItems = async (userId) => {
     try {
-      const response = await axios.get(`http://localhost:5000/api/wishlist/${userId}`);
+      const response = await axios.get(`https://updated-bookrental-2.onrender.com/api/wishlist/${userId}`);
       return response.data;
     } catch (error) {
       console.error('Error fetching wishlist items:', error);
