@@ -171,7 +171,7 @@ const Register = () => {
     setError(''); // Reset error state
 
     try {
-      const response = await axios.post('http://localhost:5000/api/user/signup', formData);
+      const response = await axios.post('https://updated-bookrental-2.onrender.com/api/user/signup', formData);
       if (response.status === 201) {
         setModalVisible(true); // Show the modal on successful signup
       }
