@@ -140,7 +140,7 @@ const GenresPage = () => {
   useEffect(() => {
     const fetchBooks = async () => {
       try {
-        const response = await axios.get(`http://localhost:5000/api/books?category=${category}`);
+        const response = await axios.get(`https://updated-bookrental-2.onrender.com/api/books?category=${category}`);
         setBooks(response.data);
       } catch (err) {
         setError('Failed to fetch books');
