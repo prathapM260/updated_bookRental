@@ -218,7 +218,7 @@ const BookPage = () => {
   useEffect(() => {
     const fetchBook = async () => {
       try {
-        const response = await axios.get(`http://localhost:5000/api/book/${id}`);
+        const response = await axios.get(`https://updated-bookrental-2.onrender.com/api/book/${id}`);
         setBook(response.data);
 
         // Fetch similar books based on genre
