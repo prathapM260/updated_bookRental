@@ -147,7 +147,7 @@ function CardSection() {
   useEffect(() => {
     const fetchUsers = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/user/users');
+        const response = await axios.get('https://updated-bookrental-2.onrender.com/api/user/users');
         const fetchedUsers = response.data;
 
         // Organize users by their designations
