@@ -12,7 +12,7 @@ const SearchComponents = () => {
     const fetchBooks = async () => {
       try {
         // Send a GET request to the backend search API with the search query
-        const response = await axios.get('http://localhost:5000/api/search', {
+        const response = await axios.get('https://updated-bookrental-2.onrender.com/api/search', {
           params: {
             search: searchText, // This can be name, genre, or author
           },
