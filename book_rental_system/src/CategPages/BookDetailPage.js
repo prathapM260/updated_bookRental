@@ -9,7 +9,7 @@ const NewArrivalBooks = () => {
   useEffect(() => {
     const fetchBooks = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/books?category=Thriller');
+        const response = await axios.get('https://updated-bookrental-2.onrender.com/api/books?category=Thriller');
         setBooks(response.data);
       } catch (error) {
         console.error('Failed to fetch new arrival books:', error);
