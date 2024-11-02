@@ -158,7 +158,7 @@ const CartPage = () => {
         const userId = decoded.user.id;
 
         // Send request to remove the item
-        await axios.post(`http://localhost:5000/api/cart/remove`, { userId, itemId });
+        await axios.post(`https://updated-bookrental-2.onrender.com/api/cart/remove`, { userId, itemId });
 
         // Update local state to reflect the removed item
         setCartItems((prevItems) => prevItems.filter(item => item._id !== itemId));
