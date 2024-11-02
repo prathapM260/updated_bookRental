@@ -10,7 +10,7 @@ const AdventuresPage = () => {
   useEffect(() => {
     const fetchBooks = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/categories/adventures');
+        const response = await axios.get('https://updated-bookrental-2.onrender.com/api/categories/adventures');
         setBooks(response.data);
       } catch (err) {
         setError('Failed to fetch Adventure books');
